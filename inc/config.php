@@ -5,5 +5,6 @@
     }
 
     // Our config is below
-    
+
+    Include_once "classes/DB.php"
 ?>
